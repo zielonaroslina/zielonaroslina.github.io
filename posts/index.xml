@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zielona Roślina</title>
+    <link>/zielonaroslina.github.io/posts/index.xml</link>
+    <description>Recent content in Posts on Zielona Roślina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 28 Feb 2017 23:26:38 +0100</lastBuildDate>
+    <atom:link href="/zielonaroslina.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pierwszypost</title>
+      <link>/zielonaroslina.github.io/posts/pierwszypost/</link>
+      <pubDate>Tue, 28 Feb 2017 23:26:38 +0100</pubDate>
+      
+      <guid>/zielonaroslina.github.io/posts/pierwszypost/</guid>
+      <description>&lt;p&gt;Pierwszy post na potrzeby założenia bloga. Niedługo pojawi się tutaj coś obszerniejszego wraz z opisem projektu, jaki zamierzam zrobić.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
