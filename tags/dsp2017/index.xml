@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Zielona Roślina Blog on Zielona Roślina Blog </title>
+      <title>Dsp2017 on Zielona Roślina Blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://zielonaroslina.github.io/index.xml</link>
+    <link>https://zielonaroslina.github.io/tags/dsp2017/index.xml</link>
     <language>pl-PL</language>
     
     
-    <updated>Sun, 05 Mar 2017 14:03:59 CET</updated>
-    
-    <item>
-      <title>O mnie</title>
-      <link>https://zielonaroslina.github.io/about/</link>
-      <pubDate>Sun, 05 Mar 2017 14:03:59 CET</pubDate>
-      
-      <guid>https://zielonaroslina.github.io/about/</guid>
-      <description>Console.WriteLine(&amp;ldquo;Troszkę starszy i co nieco wiedzący programista. Leń i prokrastynator. Pijący i nie lubiący pić kawy kawosz.&amp;rdquo;);</description>
-    </item>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
     <item>
       <title>Hello World</title>
