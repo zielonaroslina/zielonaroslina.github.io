@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Tags - Zielona Roślina Blog</title>
+  <title>.Net - Zielona Roślina Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
   <meta name="keywords" content="">
-  <link rel="canonical" href="https://zielonaroslina.github.io/tags/">
+  <link rel="canonical" href="https://zielonaroslina.github.io/tags/index.net/">
 
   
   
@@ -42,20 +42,12 @@
 
   <div class="post p2 p-responsive wrap" role="main">
     <div class="measure">
-
-  <div>
-   
-   
-   <h3 id="title">Tags</h3>
-   
-    
-    <a href="https://zielonaroslina.github.io/tags/.net"> .net </a> 1 <br>
-    
-    <a href="https://zielonaroslina.github.io/tags/dsp2017"> dsp2017 </a> 1 <br>
-    
-    
-  </div>
-
+    <p>Tag: .net</p>
+    <ul>
+        
+            <li><a href="https://zielonaroslina.github.io/post/visualstudio2017/"> Visual Studio 2017 </a></li>
+        
+    </ul>
     </div>
   </div>
 </div>

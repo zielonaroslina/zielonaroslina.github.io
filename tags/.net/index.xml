@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on Zielona Roślina Blog </title>
+      <title>.Net on Zielona Roślina Blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://zielonaroslina.github.io/post/index.xml</link>
+    <link>https://zielonaroslina.github.io/tags/.net/index.xml</link>
     <language>pl-PL</language>
     
     
-    <updated>Wed, 08 Mar 2017 22:15:23 CET</updated>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
     <item>
       <title>Visual Studio 2017</title>
@@ -18,15 +18,6 @@
       <description>Wczoraj miała miejsce premiera nowego Visual Studio 2017. Do nowości można zaliczyć odświeżony instalator, obsługa C# 7 oraz wiele innych związanych z samym IDE.
 Jeżeli chodzi o instalator to Microsoft nazywa go lekkim&amp;hellip; 8GB do pobrania aby móc pisać aplikacje Webowe oraz Desktopowe to nie najlżejsze rozwiązanie.
 Ciekawą opcją może być Live Unit Testing. Aby móc go wykorzystać potrzebna była aktualizacja runner&amp;rsquo;ów do testów w projekcie, przy którym pracuje, na co zabrakło na razie czasu.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://zielonaroslina.github.io/post/pierwszypost/</link>
-      <pubDate>Thu, 02 Mar 2017 22:46:13 CET</pubDate>
-      
-      <guid>https://zielonaroslina.github.io/post/pierwszypost/</guid>
-      <description>No to mamy pierwszy post, w którym wypadałoby wyjaśnić, dlaczego startuję w tym konkursie. Prosta sprawa: chodzi o zrobienie czegoś spoza strefy komfortu, w szczególności w odniesieniu do technologii. Na co dzień pracuję z .NET i czasem jest to troszkę nudne. Język Go i jakaś ciekawa technologia frontendowa to coś, co chodzi mi od jakiegoś czasu po głowie, a konkurs Daj Się Poznać to dobra okazja, aby wykonać jakiś ciekawy projekt, a do tego troszkę porywalizować z innymi.</description>
     </item>
     
   </channel>

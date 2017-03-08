@@ -7,7 +7,18 @@
     <language>pl-PL</language>
     
     
-    <updated>Sun, 05 Mar 2017 14:03:59 CET</updated>
+    <updated>Wed, 08 Mar 2017 22:15:23 CET</updated>
+    
+    <item>
+      <title>Visual Studio 2017</title>
+      <link>https://zielonaroslina.github.io/post/visualstudio2017/</link>
+      <pubDate>Wed, 08 Mar 2017 22:15:23 CET</pubDate>
+      
+      <guid>https://zielonaroslina.github.io/post/visualstudio2017/</guid>
+      <description>Wczoraj miała miejsce premiera nowego Visual Studio 2017. Do nowości można zaliczyć odświeżony instalator, obsługa C# 7 oraz wiele innych związanych z samym IDE.
+Jeżeli chodzi o instalator to Microsoft nazywa go lekkim&amp;hellip; 8GB do pobrania aby móc pisać aplikacje Webowe oraz Desktopowe to nie najlżejsze rozwiązanie.
+Ciekawą opcją może być Live Unit Testing. Aby móc go wykorzystać potrzebna była aktualizacja runner&amp;rsquo;ów do testów w projekcie, przy którym pracuje, na co zabrakło na razie czasu.</description>
+    </item>
     
     <item>
       <title>O mnie</title>
